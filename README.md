@@ -14,12 +14,11 @@ This case study explores the differences between **Star Schema** and **Snowflake
 
 ## 📂 Project Structure
 ```
-
-```
 ├── star_schema.png # EER diagram for Star Schema
 ├── snowflake_schema.png # EER diagram for Snowflake Schema
 ├── quickmart_schema.sql # SQL file for creating both schemas and running queries
 └── README.md # Project documentation and schema explanation
+```
 ---
 
 ## 📌 What's Inside
